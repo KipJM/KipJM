@@ -3,10 +3,9 @@
 I'm Kip. (they/them)  
 I make stuff sometimes  
 
-focus on VR/Human-machine interactions mainly, but I mostly host other code projects here  
-Stuff like app, web dev and mechanical projects
+focus on VR stuff mainly, but I mostly host other code projects here  
 ## Main Projects
-- Project Kivi
+- Project KiVi
 - Reykunyutsyìp
 - Other stuff
 
