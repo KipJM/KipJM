@@ -10,6 +10,6 @@ I make stuff sometimes
 
 ## Contact & Info
 More info can be found at **https://kip.gay**  
-contact me at *contact@kip.gay*
+contact me at *kip@kip.gay*
 
 <!-- uh hi yeah that's it -->
