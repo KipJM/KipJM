@@ -4,7 +4,7 @@ I'm Kip. (they/them)
 I make stuff sometimes  
 
 ## Main Projects
-- Project KiVi
+- SemanticLang
 - Reykunyutsyìp
 - Other stuff
 
