@@ -4,8 +4,7 @@ I'm Kip. (they/them)
 I make stuff sometimes  
 
 ## Main Projects
-- SemanticLang
-- Reykunyutsyìp
+- Acedia (Coming Soon(TM)!)
 - Other stuff
 
 ## Contact & Info
