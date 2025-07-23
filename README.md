@@ -4,7 +4,7 @@ I'm Kip. (they/them)
 I make stuff sometimes  
 
 ## Main Projects
-- Acedia (Coming Soon(TM)!)
+- ACEDIA (OUT NOW! https://kip.gay/ACEDIA)
 - Other stuff
 
 ## Contact & Info
