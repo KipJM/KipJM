@@ -2,10 +2,12 @@
 # Hiya!
 I'm Kip. (they/them)  
 I make stuff sometimes  
+Mostly does game dev, graphics programming, and other things
 
 ## Main Projects
 - ACEDIA (OUT NOW! https://kip.gay/ACEDIA)
-- Other stuff
+- Raytrack
+- and others
 
 ## Contact & Info
 More info can be found at **https://kip.gay**  
