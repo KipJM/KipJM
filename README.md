@@ -1,4 +1,5 @@
-![Kip_NewName](https://github.com/KipJM/KipJM/assets/25549410/f31483ce-1736-4b35-8c18-73e962f14d98)
+![Kip_Logo](https://github.com/KipJM/KipJM/blob/fbc56f4a04793abe52e01440069a84a7216d5a69/Kip_white.png)
+
 # Hiya!
 I'm Kip. (they/them)  
 I make stuff sometimes  
@@ -6,7 +7,7 @@ Mostly does game dev, graphics programming, and other things
 
 ## Main Projects
 - ACEDIA (OUT NOW! https://kip.gay/ACEDIA)
-- Raytrack
+- Raytrack (OUT NOW! Check GitHub)
 - and others
 
 ## Contact & Info
